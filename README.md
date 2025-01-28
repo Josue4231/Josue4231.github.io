@@ -25,11 +25,12 @@
     <h2>Compétences</h2>
     <ul>
         <li>Initiation aux langages de programmation Java,  Python, C#, PHP ou encore HTML/CSS pour le développement web.</li>
-        <li>ntroduction aux bases de données (MySQL, SQL Server, etc.) et à la modélisation des données.</li>
+        <li>Introduction aux bases de données (MySQL, SQL Server, etc.) et à la modélisation des données.</li>
         <li>Développement d'applications simples pour comprendre le cycle de vie d'un logiciel.</li>
         <li>Scripting Bash sous Linux et PowerShell sous Windows Server</li>
         <li>Développement web : front-end et back-end</li>
         <li>maîtrise des outils et des technologies pour développer des applications métiers (langages, frameworks, bases de données)</li>
+        <li>maitrise du terminal(apt install,localhost....)</li>
     </ul>
 </section>
 
