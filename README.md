@@ -24,12 +24,12 @@
 <section>
     <h2>Compétences</h2>
     <ul>
-        <li>Configuration de commutateurs (HP et CISCO), mise en place de VLAN, routage inter-VLAN</li>
-        <li>Gestion des ACL et utilisation du NAT</li>
-        <li>Supervision réseau avec Zabbix</li>
+        <li>Initiation aux langages de programmation Java,  Python, C#, PHP ou encore HTML/CSS pour le développement web.</li>
+        <li>ntroduction aux bases de données (MySQL, SQL Server, etc.) et à la modélisation des données.</li>
+        <li>Développement d'applications simples pour comprendre le cycle de vie d'un logiciel.</li>
         <li>Scripting Bash sous Linux et PowerShell sous Windows Server</li>
         <li>Développement web : front-end et back-end</li>
-        <li>Maîtrise d’outils comme GLPI et ITIL</li>
+        <li>maîtrise des outils et des technologies pour développer des applications métiers (langages, frameworks, bases de données)</li>
     </ul>
 </section>
 
