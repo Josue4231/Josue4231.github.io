@@ -29,8 +29,8 @@
         <li>Développement d'applications simples pour comprendre le cycle de vie d'un logiciel.</li>
         <li>Scripting Bash sous Linux et PowerShell sous Windows Server</li>
         <li>Développement web : front-end et back-end</li>
-        <li>maîtrise des outils et des technologies pour développer des applications métiers (langages, frameworks, bases de données)</li>
-        <li>maitrise du terminal(apt install,localhost....)</li>
+        <li>Maîtrise des outils et des technologies pour développer des applications métiers (langages, frameworks, bases de données)</li>
+        <li>Maitrise du terminal(apt install,localhost....)</li>
     </ul>
 </section>
 
